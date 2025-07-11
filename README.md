@@ -43,3 +43,13 @@ cd your-repo-name
 
 # run the project
 command to run your project
+
+---
+
+### Example for your use case:
+
+If your project is something like a "Smart Delivery Robot", your title would be:
+
+```markdown
+# 🤖 Smart Delivery Robot using ESP32 + Google Maps + A* Path Planning
+
